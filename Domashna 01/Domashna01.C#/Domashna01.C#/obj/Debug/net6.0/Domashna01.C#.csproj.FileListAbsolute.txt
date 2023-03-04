@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\bin\Debug\net6.0\Domashna01.C#.exe
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\bin\Debug\net6.0\Domashna01.C#.deps.json
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\bin\Debug\net6.0\Domashna01.C#.runtimeconfig.json
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\bin\Debug\net6.0\Domashna01.C#.dll
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\bin\Debug\net6.0\Domashna01.C#.pdb
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\Domashna01.C#.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\Domashna01.C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\Domashna01.C#.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\Domashna01.C#.AssemblyInfo.cs
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\Domashna01.C#.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\Domashna01.C#.dll
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\refint\Domashna01.C#.dll
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\Domashna01.C#.pdb
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\Domashna01.C#.genruntimeconfig.cache
+C:\Users\PC\Desktop\Domashna 01\Domashna01.C#\Domashna01.C#\obj\Debug\net6.0\ref\Domashna01.C#.dll
