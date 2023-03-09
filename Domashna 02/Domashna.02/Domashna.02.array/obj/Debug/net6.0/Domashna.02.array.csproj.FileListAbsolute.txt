@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\bin\Debug\net6.0\Domashna.02.array.exe
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\bin\Debug\net6.0\Domashna.02.array.deps.json
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\bin\Debug\net6.0\Domashna.02.array.runtimeconfig.json
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\bin\Debug\net6.0\Domashna.02.array.dll
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\bin\Debug\net6.0\Domashna.02.array.pdb
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\Domashna.02.array.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\Domashna.02.array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\Domashna.02.array.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\Domashna.02.array.AssemblyInfo.cs
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\Domashna.02.array.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\Domashna.02.array.dll
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\refint\Domashna.02.array.dll
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\Domashna.02.array.pdb
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\Domashna.02.array.genruntimeconfig.cache
+C:\Users\PC\Desktop\Domashna 02\Domashna.02\Domashna.02.array\obj\Debug\net6.0\ref\Domashna.02.array.dll
