@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\bin\Debug\net6.0\Dokmashna03.Task04.exe
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\bin\Debug\net6.0\Dokmashna03.Task04.deps.json
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\bin\Debug\net6.0\Dokmashna03.Task04.runtimeconfig.json
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\bin\Debug\net6.0\Dokmashna03.Task04.dll
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\bin\Debug\net6.0\Dokmashna03.Task04.pdb
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\Dokmashna03.Task04.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\Dokmashna03.Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\Dokmashna03.Task04.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\Dokmashna03.Task04.AssemblyInfo.cs
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\Dokmashna03.Task04.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\Dokmashna03.Task04.dll
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\refint\Dokmashna03.Task04.dll
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\Dokmashna03.Task04.pdb
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\Dokmashna03.Task04.genruntimeconfig.cache
+C:\Users\PC\Desktop\Domashna03.Task04\Dokmashna03\Dokmashna03.Task04\obj\Debug\net6.0\ref\Dokmashna03.Task04.dll
